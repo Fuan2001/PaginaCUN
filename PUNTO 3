@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+
+<title> Estudiante Programacion WEB </title>
+<head>
+</head>
+
+<body>
+
+<p align="center"> HTML son las siglas en inglés de HyperText Markup Lenguage, <br> que significa Lenguaje de Marcado de HiperTexto. <br> Se llama así al lenguaje de programación empleado en la elaboración de páginas Web, <br> y que sirve como estándar de referencia para la codificación y estructuración de las mismas, <br> a través de un código del mismo nombre (html).
+</p>
+<p align="right">Este código opera en base a la diferenciación y ubicación <br> de los distintos elementos que componen la página Web. Así, el código es liviano y meramente textual, <br> pero contiene las direcciones URL de las imágenes, audios, videos <br> y otros contenidos que serán recuperados por el navegador para ensamblar la página, <br> así como las indicaciones para la representación gráfica y estética del texto que se encuentre en la misma.
+</p>
+<p align="justify">La primera versión de este código apareció en 1991 y fue escrita por Tim Berners-Lee (TBL), <br> siendo poco más que un diseño inicial de 18 elementos, 13 de los cuales aún se conservan. <br> Se lo consideró poco más que una variante del Lenguaje de Marcado General Estándar (SGML) <br> en uso y consistente en un lenguaje de etiquetas, pero ya en 1993  <br> se reconocieron sus virtudes y su potencia en la estandarización de los lenguajes de la Red.
+</p>
+<p align="left">El lenguaje html opera en base a marcadores escritos (que aparecen entre comillas angulares), <br> a partir de las cuales se cifra la apariencia y orden interno de una página web, así como los scripts <br> o rutinas que operan dentro de ellas. Dicho código fuente hace de ADN de la página Web, diciéndole <br> al navegador de dónde obtener los recursos para su representación y en qué orden, secuencia y modo <br> establecerlos. Y siguiendo el código al pie de la letra, el navegador nos brinda la experiencia de la navegación Web.
+</p>
+</body>
+
+<footer>
+
+</footer>
+
+</hmtl>
