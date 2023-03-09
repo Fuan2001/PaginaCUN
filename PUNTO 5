@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+
+<ol>
+
+<h1> <li>   Titulo Principal   </li> </h1>
+<h2> Subtitulo </h2>
+<h3> Titulo mas pequeño </h3>
+<h4> <em> Titulo aun mas pequeño </em> </h4>
+<h5> Titulo mas pequeño aun que el anterior </h5>
+<h6> Titulo mas pequeño de todos </h6>
+
+<p> La principal razón por la que Jared Bush escogió Colombia como escenario para la <br>
+realización de la película Encanto, fue que se enamoró de su gente y su cultura durante <br>
+el proceso investigativo.
+
+<h1 align="center"> <li> Noticias principales </li> </h1>
+<p> "Escogimos a Colombia por muchos motivos, entre ellos porque nos enamoramos del<br>
+pueblo de colombiano; a todas partes que íbamos nos acogían como si fuéramos su<br>
+familia", señaló el director. En el proceso de producción, que duro cinco años, tres de<br>
+ellos en la investigación, Jared y su equipo viajaron al país por recomendación de<br>
+amigos colombianos, que trabajaron en la realización de Zootopia. Una vez en<br>
+Colombia convivieron con familias de diferentes regiones del país, "no como turistas<br>
+sino como es en realidad", experiencia en la que conoció la música de diversas zonas y<br>
+el realismo mágico de Gabriel García Márquez. "Colombia tiene biodiversidad<br>
+increíble", expresó. Añadió que buscaban describir lo más fiel posible a la familia<br>
+colombiana. "Queríamos que se sintiera auténtico y la historia igual, que fuera<br>
+emotivamente correcta y que, al verla, los colombianos sintieran que así son", detalló el<br>
+también guionista y productor.
+</ol>
+
+<p> Etiquetas para dar formato al texto: </p>
+
+<p> Este texto lleva <b> Negrilla </b> </p>
+<p> Texto <b> Destacado </b> </p>
+<p> Texto en letra <i>Itálica</i> </p>
+<p> Texto <u> Subrayado </u> </p>
+<p> Texto <mark> Resaltado </mark></p>
+<p> Ejemplo de Superíndice: (8-4+5*6) <sup>2</sup> </p>
+<p> Ejemplo de Subindice: H<sub>2</sub>O </p>
+</body>
+
+
+
+
+
