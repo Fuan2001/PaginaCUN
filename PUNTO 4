@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+
+<html>
+
+<title> Estudiante Programacion WEB </title>
+<head>
+
+
+</head>
+<ol>
+
+<LI> <b> IMG </b> </LI>
+<p>Esta etiqueta es utilizada para añadir imagenes a una pagina web.</p>
+
+<LI> <b> HEAD </b> </LI>
+<p>Esta etiqueta es para separar adecuadamente el encabezado o lo que descririra en la parte superior de la pagina.</p>
+
+<LI> <b> BODY </b> </LI>
+<p> Esta etiqueta es para separar adecuadamente el cuerpo o lo que tendra en su cuerpo en la pagina. </p>
+
+<LI> <b> FOOTER </b> </LI>
+<p> Esta etiqueta es para separar adecuadamente el pie de pagina y lo que poseera en dicho lugar la pagina. </p>
+
+<LI> <b> DIV </b> </LI>
+<p> Esta etiqueta es para definir o indicar un bloque de contenido en la pgian web, el cual se usuara para darle diseño y otras operaciones.</p>
+
+<LI> <b> BR </b> </LI>
+<p> Esta etiqueta es para dar un salto de linea en un titulo, parafo o texto en un pagina.</p>
+
+<LI> <b> STRONG </b> </LI>
+<p> Esta etiqueta es para indicar negrita a titulos, parrafos y textos pertinecientes a una pagina. </p>
+
+<LI> <b> P </b> </LI>
+<p> Esta etiqueta es para colocar adecuadamente un texto en una pagina.</p>
+
+<LI> <b> A </b> </LI>
+<p> Esta etiqueta es para indicar o traer un enlace externo o interno a la pagina.</p>
+
+<LI> <b> SRC </b> </LI>
+<p> Esta etiqueta es para indicar o traer videos externos o internos a la pagina. </p>
+</ol>
+
+<body>
+
+
+</body>
+
+
+</hmtl>
